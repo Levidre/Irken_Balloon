@@ -1,0 +1,24 @@
+//--Balloons2s.txt
+
+
+origin.x,47
+origin.y,46
+
+validrect.left,47
+validrect.top,46
+validrect.right,298
+validrect.bottom,301
+
+wordwrappoint.x,310
+wordwrappoint.y,0
+
+
+//Image Markers
+
+arrow1.y,240
+
+sstpmarker.y,306
+
+sstpmessage.y,308
+
+number.y,300
